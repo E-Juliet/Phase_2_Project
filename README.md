@@ -112,7 +112,7 @@ Sqft_living and price
 
 Grade and price
 
-![Grade with price](https://github.com/E-Juliet/Phase_2_Project/blob/main/grade.png)
+![Grade with price](https://github.com/E-Juliet/Phase_2_Project/blob/main/grade1.png)
 
 Month sold and price
 
