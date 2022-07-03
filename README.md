@@ -16,53 +16,53 @@ __Data__
 Data was provide in csv form
 
 
-This project focused on three data sets
+This project focused on one data set
 
 __ kc_house_data.csv __
 
-Column Names and descriptions for Kings County Data Set
+__Column Names and descriptions for Kings County Data Set__
 
-id - unique identified for a house
+* id - unique identified for a house
 
-dateDate - house was sold
+* dateDate - house was sold
 
-pricePrice - is prediction target
+* pricePrice - is prediction target
 
-bedroomsNumber - of Bedrooms/House
+* bedroomsNumber - of Bedrooms/House
 
-bathroomsNumber - of bathrooms/bedrooms
+* bathroomsNumber - of bathrooms/bedrooms
 
-sqft_livingsquare - footage of the home
+* sqft_livingsquare - footage of the home
 
-sqft_lotsquare - footage of the lot
+* sqft_lotsquare - footage of the lot
 
-floors - floors (levels) in house
+* floors - floors (levels) in house
 
-waterfront - House which has a view to a waterfront
+* waterfront - House which has a view to a waterfront
 
-view - Has been viewed
+* view - Has been viewed
 
-condition - How good the condition is ( Overall )
+* condition - How good the condition is ( Overall )
 
-grade - overall grade given to the housing unit, based on King County grading system
+* grade - overall grade given to the housing unit, based on King County grading system
 
-sqft_above - square footage of house apart from basement
+* sqft_above - square footage of house apart from basement
 
-sqft_basement - square footage of the basement
+* sqft_basement - square footage of the basement
 
-yr_built - Built Year
+* yr_built - Built Year
 
-yr_renovated - Year when house was renovated
+* yr_renovated - Year when house was renovated
 
-zipcode - zip
+* zipcode - zip
 
-lat - Latitude coordinate
+* lat - Latitude coordinate
 
-long - Longitude coordinate
+* long - Longitude coordinate
 
-sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
+* sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
 
-sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
+* sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 
 __Jupyter Notebook__
 
@@ -106,9 +106,15 @@ An overview of the project's objectives,analysis,conclusion and recomendations
 
 ## Visualizations
 
+Sqft_living and price
+
 ![Sqft_living with price](https://github.com/E-Juliet/Phase_2_Project/blob/main/sqft_living.png)
 
+Grade and price
+
 ![Grade with price](https://github.com/E-Juliet/Phase_2_Project/blob/main/grade.png)
+
+Month sold and price
 
 ![month_sold with price](https://github.com/E-Juliet/Phase_2_Project/blob/main/month.png)
 
