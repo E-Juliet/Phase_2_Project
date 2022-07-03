@@ -116,7 +116,7 @@ Grade and price
 
 Month sold and price
 
-![month_sold with price](https://github.com/E-Juliet/Phase_2_Project/blob/main/month.png)
+![month_sold with price](https://github.com/E-Juliet/Phase_2_Project/blob/main/month1.png)
 
 ## Summary of models
 ![summary of models](https://github.com/E-Juliet/Phase_2_Project/blob/main/models.png)
