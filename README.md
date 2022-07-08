@@ -1,6 +1,4 @@
-# House Price Prediction
-
-## House Price Prediction in King County
+# House Price Prediction in King County
 
 ## Problem Statement
 
