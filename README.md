@@ -1,4 +1,4 @@
-# Phase_2_Project
+# House Price Prediction
 
 ## House Price Prediction in King County
 
